@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat -n leroy
+web: bin/hubot --adapter hipchat -n "Leroy Prox"
